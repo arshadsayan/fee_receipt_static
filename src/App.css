@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  margin: 50px;
+}
+
+.logo {
+  width: 150px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.info {
+  flex-grow: 1;
+  text-align: center;
+}
